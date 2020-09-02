@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TopHNNews</string>
+
+    <string name="title_field">%s</string>
+    <string name="author_field">%s</string>
+</resources>
